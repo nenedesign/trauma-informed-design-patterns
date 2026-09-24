@@ -88,3 +88,10 @@ Each pattern follows this structure:
 ## Sources
 
 See [references.md](./references.md) for the full citation list.
+
+---
+
+## Related
+
+- [ai-accountability-design-patterns](https://github.com/nenedesign/ai-accountability-design-patterns): 12 accountability concepts for AI-assisted products: traceability, chain of custody, explainability, integrity, and more. The Evidence Provenance and Explainable AI Output patterns here map directly to Provenance, Explainability, and Chain of Custody there.
+- [conversational-ai-patterns](https://github.com/nenedesign/conversational-ai-patterns): interaction design patterns for conversational AI, including HITL handoff design, auditable AI output, and scale triage for regulated evidence review.
