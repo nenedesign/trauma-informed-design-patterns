@@ -2,7 +2,7 @@
 
 ## Problem
 
-In forensic contexts, the integrity and chain of custody of evidence is a legal requirement. When acquisition source, handling history, and artifact metadata are not visible in the UI, investigators cannot verify what they are looking at, and reports may be challenged in court. Provenance buried in a separate export is not sufficient; it must be present at the point of review.
+In high-stakes investigative contexts, the integrity and chain of custody of evidence is a legal requirement. When acquisition source, handling history, and artifact metadata are not visible in the UI, investigators cannot verify what they are looking at, and reports may be challenged in court. Provenance buried in a separate export is not sufficient; it must be present at the point of review.
 
 ## Design Guidance
 

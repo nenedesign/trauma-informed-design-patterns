@@ -6,7 +6,7 @@ The product respects diverse identities and does not make assumptions about gend
 
 ## In Digital Product Design
 
-Forensic and investigative tools are used by a diverse workforce and process data about diverse populations. The design should not encode assumptions about who the users are or who the subjects of investigations are.
+High-stakes and investigative tools are used by a diverse workforce and process data about diverse populations. The design should not encode assumptions about who the users are or who the subjects of investigations are.
 
 This applies at every layer of the product. Category labels for sensitive content should be factual and descriptive, not sensational or clinical. Identity fields for subjects and users should support chosen names, pronouns, and non-binary options. Examples and imagery in documentation should be culturally neutral.
 

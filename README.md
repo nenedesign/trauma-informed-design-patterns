@@ -2,7 +2,7 @@
 
 Design patterns for digital products that handle sensitive content, evidence, or high-stakes investigations. Grounded in SAMHSA's six trauma-informed care principles and applied to interaction design.
 
-These patterns are for designers, researchers, and product teams building tools in forensic investigation, content moderation, abuse reporting, healthcare, and crisis services.
+These patterns are for designers, researchers, and product teams building tools in high-stakes investigation, content moderation, abuse reporting, healthcare, and crisis services.
 
 ---
 
@@ -46,7 +46,7 @@ See [/principles](./principles/) for how each maps to digital design.
 ```
 /principles    SAMHSA principles applied to digital product design
 /patterns      Individual design patterns with guidance and research grounding
-/audit         Scorable checklist for forensic and investigative UI review
+/audit         Scorable checklist for high-stakes and investigative UI review
 references.md  Full citation list
 ```
 

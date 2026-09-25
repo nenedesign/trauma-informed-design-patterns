@@ -6,7 +6,7 @@ Users feel physically and psychologically safe when using the product. The inter
 
 ## In Digital Product Design
 
-Safety in a forensic or investigative tool is not just about data security. It is about the experience of using the product under stress. Investigators and reviewers are already operating under high cognitive and emotional load. The interface cannot eliminate that load, but it can compound it or reduce it.
+Safety in a high-stakes or investigative tool is not just about data security. It is about the experience of using the product under stress. Investigators and reviewers are already operating under high cognitive and emotional load. The interface cannot eliminate that load, but it can compound it or reduce it.
 
 A safe interface is predictable. Users know what will happen before they take an action. A safe interface is calm. Visual tone, motion, and copy do not add to the user's stress. A safe interface provides exit. Users can stop at any point without losing work.
 

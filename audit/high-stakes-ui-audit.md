@@ -1,8 +1,8 @@
-# Forensic UI Audit
+# High-Stakes UI Audit
 
-A scorable checklist for evaluating forensic, investigative, and high-stakes review interfaces against trauma-informed and safety-by-design principles.
+A scorable checklist for evaluating high-stakes, investigative, and sensitive review interfaces against trauma-informed and safety-by-design principles.
 
-Grounded in SAMHSA's six trauma-informed care principles (TIP 57) and applied to forensic UX.
+Grounded in SAMHSA's six trauma-informed care principles (TIP 57) and applied to high-stakes UX.
 
 ---
 
@@ -112,9 +112,9 @@ Focus: Make complex case data navigable without overwhelming users.
 
 ---
 
-## 5. Forensic-Specific Workflows
+## 5. High-Stakes Workflows
 
-Focus: Support core forensic tasks while minimizing unnecessary friction and distress.
+Focus: Support core investigative tasks while minimizing unnecessary friction and distress.
 
 | Pattern | Risk | Score (0-3) | Evidence |
 |---|---|---|---|
@@ -189,7 +189,7 @@ Focus: Reduce cumulative harm from sustained, high-volume review of distressing 
 | 2. Trust, Transparency, and Provenance | 30 | | |
 | 3. Control, Agency, and Pacing | 36 | | |
 | 4. Information Architecture and Navigation | 21 | | |
-| 5. Forensic-Specific Workflows | 21 | | |
+| 5. High-Stakes Workflows | 21 | | |
 | 6. Language, Microcopy, and Inclusivity | 18 | | |
 | 7. Privacy, Security, and Ethical Safeguards | 18 | | |
 | 8. High-Exposure Review Environment | 18 | | |

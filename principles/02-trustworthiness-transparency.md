@@ -6,7 +6,7 @@ The product behaves predictably and explains itself. Users understand what the s
 
 ## In Digital Product Design
 
-In forensic and investigative contexts, transparency is both a design principle and a legal requirement. Chain of custody, audit trails, and explainability of AI outputs are not optional features. They are conditions for the product to be used in evidence-based work at all.
+In high-stakes and investigative contexts, transparency is both a design principle and a legal requirement. Chain of custody, audit trails, and explainability of AI outputs are not optional features. They are conditions for the product to be used in evidence-based work at all.
 
 Transparency means the system does not hide its actions. Every change to evidence, every access to case data, and every AI-generated output is attributable, traceable, and visible. A non-technical stakeholder reviewing a report should be able to understand how evidence was collected, processed, and interpreted, without needing to ask an examiner.
 

@@ -2,7 +2,7 @@
 
 ## Problem
 
-Irreversible or poorly explained actions in forensic tools create legal risk and increase investigator anxiety. A user who deletes an annotation, removes a tag, or exports a case file without understanding the consequences has no recovery path. Fear of making an irreversible mistake slows review and increases cognitive load.
+Irreversible or poorly explained actions in high-stakes tools create legal risk and increase investigator anxiety. A user who deletes an annotation, removes a tag, or exports a case file without understanding the consequences has no recovery path. Fear of making an irreversible mistake slows review and increases cognitive load.
 
 ## Design Guidance
 

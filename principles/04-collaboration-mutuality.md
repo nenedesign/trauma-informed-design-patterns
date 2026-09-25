@@ -6,7 +6,7 @@ The product works with users, not at them. Workflows feel like shared work, not 
 
 ## In Digital Product Design
 
-In multi-role forensic tools, collaboration and mutuality means clear handoffs, shared notes, transparent ownership, and role-aware views. An examiner, an investigator, a legal reviewer, and a manager have different needs at different stages of a case. The product should make those roles explicit and support transitions between them without friction.
+In multi-role investigative tools, collaboration and mutuality means clear handoffs, shared notes, transparent ownership, and role-aware views. An examiner, an investigator, a legal reviewer, and a manager have different needs at different stages of a case. The product should make those roles explicit and support transitions between them without friction.
 
 Mutuality also means the product respects the contribution of the user. Annotation tools, shared case notes, and structured flagging mechanisms give users a meaningful role in the process. They are not passive observers of evidence; they are active contributors to an investigation.
 

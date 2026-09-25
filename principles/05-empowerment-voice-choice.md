@@ -6,7 +6,7 @@ Users have meaningful control over their experience. They can decide how deeply 
 
 ## In Digital Product Design
 
-Empowerment is not about making everything optional. Some steps in a forensic workflow are required by law or policy. Empowerment means that within those constraints, users control the depth, pace, and sequence of their work.
+Empowerment is not about making everything optional. Some steps in a high-stakes workflow are required by law or policy. Empowerment means that within those constraints, users control the depth, pace, and sequence of their work.
 
 A user who can expand or collapse graphic details, toggle image previews, set their own review mode, and save their progress at any point is empowered. A user who is forced through a fixed sequence, auto-exposed to sensitive content, and has no way to indicate their own capacity is not.
 

@@ -71,7 +71,7 @@ https://www.tidsociety.com/
 
 ---
 
-## Forensic and Investigative UX
+## High-Stakes and Investigative UX
 
 **Digital Forensic Tools: Why Ease of Use Is Essential**
 Magnet Forensics.

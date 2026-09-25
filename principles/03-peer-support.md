@@ -8,7 +8,7 @@ Users are not isolated when they encounter distressing content or need help. Sup
 
 In SAMHSA's framework, peer support recognizes the value of shared experience and mutual aid in recovery from trauma. In digital product design, this translates to accessibility of support at the moment of need.
 
-Forensic investigators and content reviewers encounter material that causes secondary traumatic stress. The product should make help findable at the moment it is needed, not require users to leave the tool, search for an HR contact, or wait for a manager. A "Request Support" action embedded in the review interface is more effective than a wellness resource linked from the company intranet.
+Investigators and content reviewers in high-stakes contexts encounter material that causes secondary traumatic stress. The product should make help findable at the moment it is needed, not require users to leave the tool, search for an HR contact, or wait for a manager. A "Request Support" action embedded in the review interface is more effective than a wellness resource linked from the company intranet.
 
 Peer support in product design also means normalizing the emotional response to distressing content. A system message that acknowledges the difficulty of the work ("It is common to feel unsettled reviewing this material") is not decoration. It reduces isolation and signals that the product was designed with awareness of what the work involves.
 

@@ -2,7 +2,7 @@
 
 ## Problem
 
-Auto-loading graphic or sensitive content exposes users to material they have not consented to view. In forensic and investigative contexts, this causes re-traumatization and erodes trust in the tool. Users who cannot predict when distressing content will appear lose confidence in their ability to manage their own exposure.
+Auto-loading graphic or sensitive content exposes users to material they have not consented to view. In high-stakes and investigative contexts, this causes re-traumatization and erodes trust in the tool. Users who cannot predict when distressing content will appear lose confidence in their ability to manage their own exposure.
 
 ## Design Guidance
 
